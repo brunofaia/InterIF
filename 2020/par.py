@@ -1,4 +1,4 @@
-#InterIF 2020 - Etapa Única
+#InterIF 2020 - Fase Única
 #Problema C - Cadê o meu par?
 
 def calcularDist(p1, p2):
