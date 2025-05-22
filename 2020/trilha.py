@@ -1,4 +1,4 @@
-#InterIF 2020 - Fase Final
+#InterIF 2020 - Fase Única
 #Problema K - Trilha de Amigos
 
 def dijkstra(graph, start, goal):
