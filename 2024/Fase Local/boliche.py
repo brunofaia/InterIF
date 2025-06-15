@@ -1,6 +1,9 @@
 #InterIF 2024 - Fase Local
 #Problema I - Boliche
 
+"""
+WRONG ANSWER!!! CONCERTAR DEPOIS!!!
+"""
 x = int(input())
 for _ in range(x):
     player = input()
